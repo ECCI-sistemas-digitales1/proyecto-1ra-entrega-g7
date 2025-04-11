@@ -2,6 +2,10 @@
 # Proyecto - 1ra entrega
 
 ## Integrantes
-
+[Cristian Celis]()
+[Cristian romero]()
+[Daniel Montaño]()
 
 ## Documentación
+Aqui encontraremos la documentación del proyecto a realizar en la materia y los diferentes componentes y resultado final que obtendremos.
+[ Proyecto (PDF)](Proyecto.pdf)
