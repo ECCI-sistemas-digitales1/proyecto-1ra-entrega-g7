@@ -9,3 +9,4 @@
 ## Documentación
 Aqui encontraremos la documentación del proyecto a realizar en la materia y los diferentes componentes y resultado final que obtendremos.
 [ Proyecto (PDF)](Proyecto.pdf)
+o tambien mediante este link se podran ver [diseño proyecto en Canva](https://www.canva.com/design/DAGjmwh8RoI/4M6qm6H01q-4Z1hCHgTH-A/edit?utm_content=DAGjmwh8RoI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
